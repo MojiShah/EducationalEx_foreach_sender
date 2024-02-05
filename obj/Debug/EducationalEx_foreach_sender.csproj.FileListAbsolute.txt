@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\bin\Debug\EducationalEx_foreach_sender.exe.config
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\bin\Debug\EducationalEx_foreach_sender.exe
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\bin\Debug\EducationalEx_foreach_sender.pdb
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.Form1.resources
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.Properties.Resources.resources
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.exe
+C:\Users\HP\Desktop\program\C#\Second\EducationalEx_foreach_sender\EducationalEx_foreach_sender\obj\Debug\EducationalEx_foreach_sender.pdb
